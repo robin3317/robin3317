@@ -24,7 +24,7 @@ I am the founder of one of the prominent programming-based YouTube channel in Ba
 - 🎥  I'm following couple of courses in different platforms about Flutter, Deno & React-Redux.
 
 ## Get in touch
-<a href="https://in.linkedin.com/in/robin4java">
+<a href="https://www.linkedin.com/in/robin4java/">
   <img align="left" alt="Abdur Rahman Robin | Linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://twitter.com/robin4java">

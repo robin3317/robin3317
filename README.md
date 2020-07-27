@@ -21,7 +21,6 @@ I am the founder of one of the prominent programming-based YouTube channel in Ba
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=robin3317&show_icons=true&theme=radical&line_height=27" alt="Robin's github stats" /></a>
 <a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin3317&theme=radical&hide_langs_below=1&layout=compact" alt="Robin's github stats" /></a>
 
-<br />
 ## Recent Activities
 - 💻  I'm currently working as a software developer at [Corona Engineering Ltd.](https://coronabd.com/)
 - 🌱  I’m currently learning GraphQL & Typescript

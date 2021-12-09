@@ -24,7 +24,7 @@ I am the founder of one of the prominent programming-based YouTube channel in Ba
 <a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin3317&theme=radical&hide_langs_below=1&layout=compact" alt="Robin's github stats" /></a>
 
 ## Recent Activities
-- 💻  I'm currently working as a software developer at [Daffodil International University](https://daffodilvarsity.edu.bd/)
+- 💻  I'm currently working as a software developer at [OFO Tech Sdn Bhd](https://www.ofo.my/)
 - 🌱  I’m currently learning GraphQL & Typescript
 - 📖  I'm reading "Design It!: From Programmer to Software Architect by Michael Keeling"
 - 🎥  I'm following couple of courses in different platforms about Flutter, Node, Deno & React-Redux.

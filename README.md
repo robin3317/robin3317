@@ -33,18 +33,18 @@ I am the founder of one of the prominent programming-based YouTube channel in Ba
 <a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin3317&theme=radical&hide_langs_below=1&layout=compact" alt="Robin's github stats" /></a>
 
 ## Get in touch
-<a href="https://www.linkedin.com/in/robin4java/" target="_blank">
+<a href="https://www.linkedin.com/in/robin4java/">
   <img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/robin4java" target="_blank">
+<a href="https://twitter.com/robin4java">
   <img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://leetcode.com/robin_rahman/" target="_blank">
+<a href="https://leetcode.com/robin_rahman/">
   <img align="left" alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
-<a href="https://stackoverflow.com/users/7387089/robin" target="_blank">
+<a href="https://stackoverflow.com/users/7387089/robin">
   <img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="mailto:abdurrahmanrobin47@gmail.com" target="_blank">
+<a href="mailto:abdurrahmanrobin47@gmail.com">
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>

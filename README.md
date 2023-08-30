@@ -5,6 +5,8 @@ I am the founder of one of the prominent programming-based YouTube channel in Ba
 
 [![Robin Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=robin3317&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](https://robinrahman.me)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/robin_rahman?theme=light&font=Inter&ext=activity)
+
 ![](https://komarev.com/ghpvc/?username=robin3317&label=Profile+Views&color=yellowgreen)
 
 ## Expertise

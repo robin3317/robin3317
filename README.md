@@ -1,5 +1,5 @@
 # Abdur Rahman Robin
-Hello 🌍, I'm [Robin](https://www.robinrahman.me/), Results-oriented software developer with a focus on the design and implementation of business logic. 5+ years of experience in developing cutting-edge engineering solutions with a wide range of Telecommunication, EdTech, eCommerce and technology features. Skilled in agile processes, frontend and backend development, and creating fully featured mobile and web applications.
+Hello 🌍, I'm [Robin](https://www.robinrahman.me/), Results-oriented software developer with a focus on the design and implementation of business logic. 7+ years of experience in developing cutting-edge engineering solutions with a wide range of Telecommunication, EdTech, eCommerce and technology features. Skilled in agile processes, frontend and backend development, and creating fully featured mobile and web applications.
 
 I am the founder of one of the prominent programming-based YouTube channel in Bangladesh🇧🇩 “[Codeonces](https://youtube.com/c/Codeonces)”.
 
@@ -30,7 +30,7 @@ I am the founder of one of the prominent programming-based YouTube channel in Ba
 - 💻  I'm currently working as a software developer at [Astha IT](https://www.asthait.com/)
 - 🌱  I’m currently learning Backend Technologies.
 - 📖  I'm reading "JavaScript: The Definitive Guide, 7th Edition by David Flanagan".
-- 🎥  I'm following couple of courses in different platforms about TypeScript, Java, Spring Framework & Advanced NodeJS.
+- 🎥  I'm following couple of courses in different platforms about TypeScript, Next.js & Advanced NodeJS.
 
 *NOTE: The stats are generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). It may not 100% correct always!*
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=robin3317&show_icons=true&theme=radical&line_height=27" alt="Robin's github stats" /></a>

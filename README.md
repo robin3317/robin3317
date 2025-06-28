@@ -1,5 +1,5 @@
 # Abdur Rahman Robin
-Hello 🌍, I'm [Robin](https://www.robinrahman.me/), Results-oriented software developer with a focus on the design and implementation of business logic. 7+ years of experience in developing cutting-edge engineering solutions with a wide range of Telecommunication, EdTech, eCommerce and technology features. Skilled in agile processes, frontend and backend development, and creating fully featured mobile and web applications.
+Hello 🌍, I'm [Robin](https://www.robinrahman.me/), Results-oriented software developer with a focus on the design and implementation of business logic. 6.5+ years of experience in developing cutting-edge engineering solutions with a wide range of Telecommunication, EdTech, eCommerce and technology features. Skilled in agile processes, frontend and backend development, and creating fully featured mobile and web applications.
 
 I am the founder of one of the prominent programming-based YouTube channel in Bangladesh🇧🇩 “[Codeonces](https://youtube.com/c/Codeonces)”.
 
@@ -27,7 +27,7 @@ I am the founder of one of the prominent programming-based YouTube channel in Ba
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ## Recent Activities
-- 💻  I'm currently working as a software developer at [Astha IT](https://www.asthait.com/)
+- 💻  I'm currently working as a Senior Software Engineer at [Astha IT](https://ait.inc)
 - 🌱  I’m currently learning Backend Technologies.
 - 📖  I'm reading "JavaScript: The Definitive Guide, 7th Edition by David Flanagan".
 - 🎥  I'm following couple of courses in different platforms about TypeScript, Next.js & Advanced NodeJS.

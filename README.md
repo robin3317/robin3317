@@ -32,9 +32,9 @@ I am the founder of one of the prominent programming-based YouTube channel in Ba
 - 📖  I'm reading "JavaScript: The Definitive Guide, 7th Edition by David Flanagan".
 - 🎥  I'm following couple of courses in different platforms about TypeScript, Next.js & Advanced NodeJS.
 
-*NOTE: The stats are generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). It may not 100% correct always!*
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=robin3317&show_icons=true&theme=radical&line_height=27" alt="Robin's github stats" /></a>
+<div>
 <a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin3317&theme=radical&hide_langs_below=1&layout=compact" alt="Robin's github stats" /></a>
+</div>
 
 ## Roadmaps Learning Journey
 I have been following multiple learning paths from [roadmap.sh](https://roadmap.sh/). Here is the gist of my recent activities.

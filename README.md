@@ -1,58 +1,115 @@
-# Abdur Rahman Robin
-Hello 🌍, I'm [Robin](https://www.robinrahman.me/), Results-oriented software developer with a focus on the design and implementation of business logic. 6.5+ years of experience in developing cutting-edge engineering solutions with a wide range of Telecommunication, EdTech, eCommerce and technology features. Skilled in agile processes, frontend and backend development, and creating fully featured mobile and web applications.
+<h1 align="center">Hi 👋, I'm Abdur Rahman Robin</h1>
+<h3 align="center">Senior Software Engineer from Bangladesh 🇧🇩</h3>
 
-I am the founder of one of the prominent programming-based YouTube channel in Bangladesh🇧🇩 “[Codeonces](https://youtube.com/c/Codeonces)”.
+<p align="center">
+  <a href="https://robinrahman.me"><img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/robin4java/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/robin4java"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@Codeonces"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://leetcode.com/robin_rahman/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:abdurrahmanrobin47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-[![Robin Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=robin3317&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](https://robinrahman.me)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=robin3317&label=Profile+Views&color=yellowgreen&style=flat" alt="Profile Views" />
+</p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/robin_rahman?theme=light&font=Inter&ext=activity)](https://leetcode.com/robin_rahman/)
+---
 
-![](https://komarev.com/ghpvc/?username=robin3317&label=Profile+Views&color=yellowgreen)
+## 🚀 About Me
 
-## Expertise
-<img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
-<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img align="left" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="left" alt="Next.js" src="https://img.shields.io/badge/next.js-11cccc?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img align="left" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+I'm a results-oriented **Frontend Engineer with 7.5+ years** of experience building high-performance, scalable, and user-centric web and mobile applications. I currently work as a **Senior Software Engineer at [Astha IT](https://ait.inc)**, leading frontend development for **Banglalink Digital** — a platform serving hundreds of thousands of telecom customers across Bangladesh.
 
-## Programming Languages
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+My experience spans **Telco, FinTech, eCommerce, EdTech, and AI/Drone-based products**, with deep expertise in modern React ecosystems and a strong foundation in web fundamentals.
 
-## Recent Activities
-- 💻  I'm currently working as a Senior Software Engineer at [Astha IT](https://ait.inc)
-- 🌱  I’m currently learning Backend Technologies.
-- 📖  I'm reading "JavaScript: The Definitive Guide, 7th Edition by David Flanagan".
-- 🎥  I'm following couple of courses in different platforms about TypeScript, Next.js & Advanced NodeJS.
+- 💻 Specializing in **React.js, Next.js, TypeScript & Node.js**
+- 🏗️ Architecting reusable component systems & design platforms (DXP)
+- ⚡ Passionate about **performance optimization, clean code & web standards**
+- 🎥 Founder of [**Codeonces**](https://www.youtube.com/@Codeonces) — a programming-focused YouTube channel
+- 🌱 Currently deepening my **backend & system design** skills
+- 📖 Reading *JavaScript: The Definitive Guide* by David Flanagan
 
-<div>
-<a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin3317&theme=radical&hide_langs_below=1&layout=compact" alt="Robin's github stats" /></a>
-</div>
+---
 
-## Roadmaps Learning Journey
-I have been following multiple learning paths from [roadmap.sh](https://roadmap.sh/). Here is the gist of my recent activities.
-[![roadmap.sh](https://roadmap.sh/card/wide/67147c19791f57dd6004ea8c?variant=light)](https://roadmap.sh)
+## 🛠️ Tech Stack
 
-## Get in touch
-<a href="https://www.linkedin.com/in/robin4java/">
-  <img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/robin4java">
-  <img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://leetcode.com/robin_rahman/">
-  <img align="left" alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
-<a href="https://stackoverflow.com/users/7387089/robin">
-  <img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-<a href="mailto:abdurrahmanrobin47@gmail.com">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+</p>
+
+**Tools & Testing**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+---
+
+## 💼 Featured Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Banglalink Digital**](https://banglalink.net) | High-performance corporate platform serving hundreds of thousands of telecom customers | Next.js, TypeScript, Redux |
+| [**Ryze**](https://ryze.live) | AI-powered lifestyle app with personalized content & smart recommendations | Next.js, RTK Query, GSAP, Shadcn UI |
+| [**Banglalink WiFi**](https://banglalinkwifi.banglalink.net) | WiFi management platform with customer onboarding & complaint management | Next.js, TanStack Query, Zod |
+| [**eShop**](https://eshop.banglalink.net) | Comprehensive e-commerce platform with catalog, cart & payment integration | React.js, Redux Toolkit, Ant Design |
+| [**geoROAD.ai**](https://georoad.ai) | AI-powered road monitoring solution for Smart City & infrastructure management | React Native, Maps API |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robin3317&show_icons=true&theme=radical&hide_border=true" alt="Robin's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin3317&theme=radical&hide_border=true&layout=compact&hide_langs_below=1" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robin3317&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/robin_rahman?theme=light&font=Inter&ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🎥 Codeonces
+
+I run [**Codeonces**](https://www.youtube.com/@Codeonces), one of Bangladesh's programming-focused YouTube channels, where I share knowledge on web development, React, and modern engineering practices.
+
+---
+
+<p align="center"><i>Love to convert thoughts into CODE 💡</i></p>

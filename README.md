@@ -89,15 +89,12 @@ My experience spans **Telco, FinTech, eCommerce, EdTech, and AI/Drone-based prod
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robin3317&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+![Robin's Github stats](https://github-stats-extended.vercel.app/api?username=robin3317&show_icons=true&theme=radical)
+![Robin's Github Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=robin3317&theme=radical)
 
 ### 🧩 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/robin_rahman?theme=light&font=Inter&ext=activity" alt="LeetCode Stats" />
-</p>
+<img src="https://leetcard.jacoblin.cool/robin_rahman?theme=light&font=Inter&ext=activity" alt="LeetCode Stats" />
 
 ---
 
